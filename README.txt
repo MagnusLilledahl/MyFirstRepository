@@ -8,3 +8,5 @@ Now working again. Hope nobody else is working
 When working together on a program it is important to write clearly what you mean so that other people can understand
 
 Is this a good idea with matlab programs?
+
+I am your alter ego. I have done some work in the cloud of which you are not aware. Hope you are not duplicating my work.
